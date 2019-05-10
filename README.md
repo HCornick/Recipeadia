@@ -14,3 +14,7 @@ We also obtained a dataset with approximately 11,000 recipes from Kaggle,
 link below.
 
 https://www.kaggle.com/kanaryayi/recipe-ingredients-and-reviews/version/1
+
+In addition, please use the following link to view our project presentation:
+
+https://prezi.com/p/9llre9dgrl-r/final-project/
